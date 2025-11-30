@@ -1,0 +1,7 @@
+FX Pair,Plot File
+Open,backtest_plots/Open_backtest.png
+High,backtest_plots/High_backtest.png
+Low,backtest_plots/Low_backtest.png
+Close,backtest_plots/Close_backtest.png
+Adj Close,backtest_plots/Adj Close_backtest.png
+Volume,backtest_plots/Volume_backtest.png
